@@ -1,3 +1,17 @@
+#Monkey Jump
+>Simple Infinite scrolling game using phaser 3
+
+This is a Typpescript game build with Phaser 3 and the Typescript + Vite.js template.
+
+The game structure is composed of a home screen with a simple audio toggle button, and a play button leadong to the main scene.
+In the main scene, platforms are randomly created from right to left and the player jumps across them collecting items (bananas) and avoiding enemies (parrots and statues)
+
+The game is live at https://japansio.info/monkey
+
+Below is the original readme of the template.
+
+---------------------------------------------------
+
 # Phaser 3 + TypeScript + Vite.js Template
 > Make Phaser 3 games with TypeScript and modern frontend tooling.
 
