@@ -1,4 +1,4 @@
-#Monkey Jump
+# Monkey Jump
 >Simple Infinite scrolling game using phaser 3
 
 This is a Typpescript game build with Phaser 3 and the Typescript + Vite.js template.
